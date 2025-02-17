@@ -1,8 +1,8 @@
 ---
 title: "DM Vault - WIP"
 date: 2020-06-08T08:06:25+06:00
-image: images/posts/dnd.png
-hero: images/posts/dnd.png
+image: images/posts/dndTitle.png
+hero: images/posts/dndTitle.png
 menu:
   sidebar:
     name: DM Vault
