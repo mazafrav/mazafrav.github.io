@@ -2,8 +2,8 @@
 title: "Aard & Wyzz : The Rise Of Minions"
 date: 2025-02-08T08:06:25+06:00
 description: "Aard & Wyzz : The Rise Of Minions"
-image: images/posts/aardandwyzzTitle.png
-hero: images/posts/aardandwyzzTitle.png
+image: 
+hero: 
 menu:
   sidebar:
     name: Aard & Wyzz
