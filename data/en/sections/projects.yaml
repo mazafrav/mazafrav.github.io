@@ -47,7 +47,6 @@ projects:
 
 - name: DM Vault
   image: /images/sections/projects/dndTitle.png
-  logo: /images/sections/projects/dnd.jpg
   role: Dungeon Master
   url: "/posts/dmvault/"
   summary: Notes and encounters designed for the TTRPGs I've runned as a DM
