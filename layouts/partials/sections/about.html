@@ -9,11 +9,11 @@
 {{ end }}
 
 <div class="container anchor p-lg-5 about-section" id="{{ $sectionID }}">
-    <div class="row pt-sm-2 pt-md-4 align-self-center">
+    <div class="row pt-sm-6 pt-md-4 align-self-center">
         <!-- summary -->
         <!-- takes up full section width if no badges/soft skills are specified -->
         {{ if or (.softSkills) (.badges) }} <div class="col-sm-6">
-            {{ else }} <div class="col-sm-12">
+            {{ else }} <div class="col-sm-7">
                 {{ end }}
                 <h3 class="p-1">{{ $author.name }}</h3>
                 {{ if .designation }}
@@ -48,19 +48,31 @@
                 {{ range .resourceLinks }}
                 <a href="{{ .url | relURL }}" title="{{ .title }}" target="#"><button class="btn btn-dark">{{ .title }}</button></a>
                 {{ end }}
+                
             </div>
             <!-- soft skills circular-progressbar -->
-            <div class="col-sm-6 pt-5 ps-md-4 ps-sm-3 pt-sm-0">
-                <div class="row">
-                    {{ range .badges }}
-                    {{ partial "misc/badge.html" . }}
-                    {{ end }}
-                    <!-- TODO: Remove this part in version v4+ -->
-                    <!-- Keep backward compatibility with old configuration -->
-                    {{ range .softSkills }}
-                    {{ partial "misc/soft-skills.html" . }}
-                    {{ end }}
-                </div>
-            </div>
+                       <div class="col-sm-3 pt-5 ps-md-4 ps-sm-3 pt-sm-0 col-sm-offset-2">
+                           <div class="container">
+                               {{ $imageImage:= resources.Get .image}}
+                               {{ if $imageImage }}
+                               {{/*  svg don't support "Fit" operation   */}}
+                               {{ if ne $imageImage.MediaType.SubType "svg" }}
+                               {{ $imageImage = $imageImage.Fit "1000x1000" }}
+                               {{ end }}
+                               <img class="card-img-top" src="{{ $imageImage.RelPermalink }}" alt="{{ .name }}" />
+                               {{ end }}
+                           </div>
+                           <div class="row">
+                              
+                               {{ range .badges }}
+                               {{ partial "misc/badge.html" . }}
+                               {{ end }}
+                               <!-- TODO: Remove this part in version v4+ -->
+                               <!-- Keep backward compatibility with old configuration -->
+                               {{ range .softSkills }}
+                               {{ partial "misc/soft-skills.html" . }}
+                               {{ end }}
+                           </div>
+                       </div>
         </div>
     </div>

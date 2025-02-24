@@ -7,6 +7,8 @@ section:
   showOnNavbar: true
   template: sections/about.html
 
+image: /images/site/fotito.jpg
+
 # your designation
 designation: Videogame Designer
 # your company information
@@ -57,35 +59,35 @@ badges:
 #  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
 #  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
 
-- type: soft-skill-indicator
-  name: Videogame Design
-  percentage: 85
-  color: blue
+#- type: soft-skill-indicator
+#  name: Videogame Design
+#  percentage: 85
+#  color: blue
 
-- type: soft-skill-indicator
-  name: Software Develpment
-  percentage: 90
-  color: yellow
+#- type: soft-skill-indicator
+#  name: Software Develpment
+#  percentage: 90
+#  color: yellow
 
-- type: soft-skill-indicator
-  name: Team Management
-  percentage: 80
-  color: orange
+#- type: soft-skill-indicator
+#  name: Team Management
+#  percentage: 80
+#  color: orange
 
-- type: soft-skill-indicator
-  name: Team Work
-  percentage: 90
-  color: green
+#- type: soft-skill-indicator
+#  name: Team Work
+#  percentage: 90
+#  color: green
 
-- type: soft-skill-indicator
-  name: Communication
-  percentage: 80
-  color: "#BCA6F5"
-
-- type: soft-skill-indicator
-  name: Critical thinking
-  percentage: 85
-  color: "#D9FFF7"
+#- type: soft-skill-indicator
+#  name: Communication
+#  percentage: 80
+#  color: "#BCA6F5"
+#
+#- type: soft-skill-indicator
+#  name: Critical thinking
+#  percentage: 85
+#  color: "#D9FFF7"
 
 # you can also provide color code instead of the color name
 # - type: soft-skill-indicator
