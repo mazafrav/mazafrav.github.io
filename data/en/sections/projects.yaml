@@ -3,7 +3,7 @@ section:
   name: Projects
   id: projects
   enable: true
-  weight: 2
+  weight: 1
   showOnNavbar: true
   # Can optionally hide the title in sections
   # hideTitle: true
@@ -42,10 +42,11 @@ projects:
   role: Solo developer
   timeline: "2024"
   url: "/posts/ourhome/"
-  summary: This is a deeply personal project where I wanted to experiment with creating an interactive narrative experience. <br>Through this game, I aimed to convey the emotions and challenges of navigating a difficult and transformative period in my life. 
+  summary: This personal project allowed me to explore creating an interactive narrative experience. <br>Through the game, I sought to convey the complex emotions of grief, offering players an immersive and emotional journey. 
   tags: ["videogame", "personal"]
 
 - name: DM Vault
+  image: /images/sections/projects/dndTitle.png
   logo: /images/sections/projects/dnd.jpg
   role: Dungeon Master
   url: "/posts/dmvault/"
@@ -53,7 +54,7 @@ projects:
   tags: ["personal"]
 
 - name: Matryoshka
-  image: /images/sections/projects/matri.png
+  image: /images/sections/projects/Title.png
   role: Game Designer, Programmer
   timeline: "GMTKJam 2024"
   url: "https://finitto.itch.io/matryoshka"

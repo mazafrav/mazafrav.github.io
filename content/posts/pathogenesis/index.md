@@ -15,9 +15,13 @@ author:
 math: true
 ---
 
-## Platform-based puzzle game.
 
-{{< split 6 6>}}
+
+
+
+##  Platform-based puzzle game.
+
+{{< split 7 5>}}
 
 <br>
 Pathogenesis is a platform-based puzzle game where you control a vulnerable virus striving to survive in a microscopic world.
@@ -25,7 +29,7 @@ Pathogenesis is a platform-based puzzle game where you control a vulnerable viru
 <br>
 As the player traverses through levels, they must solve puzzles by infecting organisms and manipulating their environment in a mysterious and perilous land.
 
-{{< vs 4>}}
+{{< vs 2>}}
 
 ### <a href="https://acidgecko.itch.io/pathogenesis">Demo available on Itch.io</a>
 
@@ -33,15 +37,21 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 <iframe width=450 height=270 src="https://www.youtube.com/embed/G0yElqQinU0?si=1BOZnhvNFVZfbyQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
 {{< /split >}}
 
-{{< vs 2>}}
+
+
+
 
 ## Features
 
 {{< img src="/posts/pathogenesis/patho1.png" height=40% width=40% float="right" >}}
 
 {{< vs 2>}}
+
+{{< split 11 1>}}
 
 * Infection: Use the virus's power to infect and manipulate your surroundings.
 
@@ -51,7 +61,11 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 * Generative Music: Unique, adaptive soundtracks that respond to your gameplay.
 
-{{< vs 4>}}
+---
+
+{{< /split >}}
+
+{{< vs 1>}}
 
 {{< img src="/posts/pathogenesis/patho3.png" height=40% width=40% float="right">}}
 
