@@ -39,14 +39,14 @@ projects:
 
 - name: Our Home (WIP)
   image: /images/sections/projects/ourhome.png
-  role: Solo developer
+  role: Developer
   timeline: "2024"
   url: "/posts/ourhome/"
   summary: This personal project allowed me to explore creating an interactive narrative experience. <br>Through the game, I sought to convey the complex emotions of grief, offering players an immersive and emotional journey. 
   tags: ["videogame", "personal"]
 
 - name: DM Vault
-  image: /images/sections/projects/dndTitle.png
+  image: /images/sections/projects/dndtitle.png
   role: Dungeon Master
   url: "/posts/dmvault/"
   summary: Notes and encounters designed for the TTRPGs I've runned as a DM
