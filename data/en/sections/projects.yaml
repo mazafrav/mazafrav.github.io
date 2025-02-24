@@ -46,8 +46,9 @@ projects:
   tags: ["videogame", "personal"]
 
 - name: DM Vault
-  image: /images/sections/projects/dndtitle.png
+  image: /images/sections/projects/dndcard.png
   role: Dungeon Master
+  timeline: "Ongoing"
   url: "/posts/dmvault/"
   summary: Notes and encounters designed for the TTRPGs I've runned as a DM
   tags: ["personal"]
