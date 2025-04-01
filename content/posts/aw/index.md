@@ -33,7 +33,7 @@ An <strong>adventure game</strong> featuring both <strong>combat and puzzles</st
 
 
 
-<br><iframe align="right" width=90% height=100% src="https://www.youtube.com/embed/lkEnyQfBJ-Y?si=aps45bDQHxHgy3rh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube lkEnyQfBJ-Y >}}
 
 {{< /split >}}
 

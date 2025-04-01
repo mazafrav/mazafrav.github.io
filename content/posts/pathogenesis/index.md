@@ -35,9 +35,7 @@ As the player traverses through levels, they must solve puzzles by infecting org
 
 ---
 
-<iframe width=450 height=270 src="https://www.youtube.com/embed/G0yElqQinU0?si=1BOZnhvNFVZfbyQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+{{< youtube G0yElqQinU0 >}}
 
 {{< /split >}}
 

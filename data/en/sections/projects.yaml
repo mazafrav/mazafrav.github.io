@@ -69,6 +69,14 @@ projects:
   summary: This project focuses on level blocking for a first-person horror game. <br>I aimed to explore how to create tension and suspense through level design, all while working with limited resources.
   tags: ["personal"]
 
+- name: Scientific paper - Computer vision, drone automation
+  image: /images/sections/projects/calibration.jpg
+  role: Researcher
+  timeline: "2018"
+  url: "https://drive.google.com/file/d/1NtAMG2wwmqto-QpQAHawyVhspLU-gyWr/view?usp=sharing"
+  summary: Research project where I implemented an autonomous flight drone controller based on computer vision.
+  tags: ["personal"]
+
 - name: Joselito's Dreams
   role: Developer
   timeline: "GGJ 2024"
