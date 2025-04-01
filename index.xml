@@ -12,7 +12,9 @@ As the player traverses through levels, they must solve puzzles by infecting org
 &lt;h3 id="demo-available-on-itchio">&lt;a href="https://acidgecko.itch.io/pathogenesis">Demo available on Itch.io&lt;/a>&lt;/h3>
 &lt;/div>
 &lt;div class="col col-sm-12 col-lg-5">
-&lt;iframe width=450 height=270 src="https://www.youtube.com/embed/G0yElqQinU0?si=1BOZnhvNFVZfbyQP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>&lt;/iframe>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/G0yElqQinU0?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video">&lt;/iframe>
+&lt;/div>
 &lt;/div>
 &lt;/div>
 &lt;h2 id="features">Features&lt;/h2>
