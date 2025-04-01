@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: Our Home
     identifier: ourhome
-    weight: 33
+    weight: 20
 author:
   name: Manu Zafra
   image: images/site/logopizel.png

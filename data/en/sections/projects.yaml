@@ -77,6 +77,15 @@ projects:
   summary: Research project where I implemented an autonomous flight drone controller based on computer vision.
   tags: ["personal"]
 
+  
+- name: Puzzle design study
+  image: images/sections/projects/puzzledesign.png
+  role: Puzzle Designer
+  timeline: "2024"
+  url: "/posts/puzzledesign/"
+  summary: An analysis of some of the most significant puzzles I've designed and implemented. I walk through the process and design choices I made during their development.
+  tags: ["personal"]
+
 - name: Joselito's Dreams
   role: Developer
   timeline: "GGJ 2024"
