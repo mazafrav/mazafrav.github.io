@@ -46,7 +46,7 @@ projects:
   tags: ["videogame", "personal"]
 
 - name: DM Vault
-  image: /images/sections/projects/dndcard.png
+  image: /images/sections/projects/carddnd.png
   role: Dungeon Master
   timeline: "Ongoing"
   url: "/posts/dmvault/"
