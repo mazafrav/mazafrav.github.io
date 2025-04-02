@@ -6,7 +6,7 @@ image:
 hero: images/sections/projects/fpscreenshot.png
 menu:
   sidebar:
-    name: FPS Study
+    name: FPS Level design study
     identifier: fpsstudy
     weight: 34
 author:

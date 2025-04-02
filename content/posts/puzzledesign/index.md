@@ -15,18 +15,14 @@ author:
 math: true
 ---
 
+
+
 ## About
 
 On this page, I'll be exploring some of the most significant puzzles I've designed, delving into the thought process and the unique aspects of each situation I present.
 
+{{< vs 4>}}
+
 ## Pathogenesis
 
-##### Teaching the mechanic
-
-##### Showing new perspective
-
-##### Challenging the player's perspective
-
-{{< alert type="warning" >}}
-Page under construction.
-{{< /alert >}}
+{{< embed-pdf src="/files/puzzledesign.pdf" >}}

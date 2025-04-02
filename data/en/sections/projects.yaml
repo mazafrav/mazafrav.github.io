@@ -16,6 +16,8 @@ buttons:
   filter: "videogame"
 - name: GameJams
   filter: "gamejam"
+- name: Posts
+  filter: "post"
 - name: Others
   filter: "personal"
 
@@ -67,16 +69,15 @@ projects:
   timeline: "2024"
   url: "/posts/fpsstudy/"
   summary: This project focuses on level blocking for a first-person horror game. <br>I aimed to explore how to create tension and suspense through level design, all while working with limited resources.
-  tags: ["personal"]
+  tags: ["personal", "post"]
 
 - name: Scientific paper - Computer vision, drone automation
   image: /images/sections/projects/calibration.jpg
   role: Researcher
   timeline: "2018"
   url: "https://drive.google.com/file/d/1NtAMG2wwmqto-QpQAHawyVhspLU-gyWr/view?usp=sharing"
-  summary: Research project where I implemented an autonomous flight drone controller based on computer vision.
+  summary: A research project in which I implemented an autonomous flight drone controller based on computer vision. I also developed the API and created the simulation environment for the controller.
   tags: ["personal"]
-
   
 - name: Puzzle design study
   image: images/sections/projects/puzzledesign.png
@@ -84,7 +85,7 @@ projects:
   timeline: "2024"
   url: "/posts/puzzledesign/"
   summary: An analysis of some of the most significant puzzles I've designed and implemented. I walk through the process and design choices I made during their development.
-  tags: ["personal"]
+  tags: ["personal", "post"]
 
 - name: Joselito's Dreams
   role: Developer
