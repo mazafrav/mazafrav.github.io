@@ -2,8 +2,8 @@
 title: "Puzzle Design Study"
 date: 2025-04-01T09:00:00+06:00
 description: "Our Home"
-image: images/sections/projects/puzzledesign.png
-hero: images/sections/projects/puzzledesign.png
+image: 
+hero: 
 menu:
   sidebar:
     name: Puzzle design study
