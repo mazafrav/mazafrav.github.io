@@ -8,7 +8,7 @@ menu:
   sidebar:
     name: Puzzle design study
     identifier: puzzledesign
-    weight: 40
+    weight: 33
 author:
   name: Manu Zafra
   image: images/site/logopizel.png
