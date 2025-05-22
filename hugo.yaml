@@ -2,7 +2,7 @@ baseURL: https://mazafrav.github.io
 
 languageCode: en
 title: "Manu Zafra"
-navBarTitle: "Manu Zafra - Portfolio"
+navBarTitle: "Manu Zafra"
 
 # Use Hugo modules to add theme
 module:
@@ -24,7 +24,7 @@ languages:
   en:
     languageCode: en
     languageName: English
-    title: "Manu Zafra - Portfolio"
+    title: "Manu Zafra"
     weight: 1
 # default language for the content
 defaultContentLanguage: en
