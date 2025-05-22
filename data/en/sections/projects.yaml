@@ -48,7 +48,7 @@ projects:
   tags: ["videogame", "personal"]
 
 - name: DM Vault
-  image: /images/sections/projects/dmsvault.png
+  image: /images/sections/projects/dmsvault.jpg
   role: Dungeon Master
   timeline: "Ongoing"
   url: "/posts/dmvault/"
@@ -80,7 +80,7 @@ projects:
   tags: ["personal"]
   
 - name: Puzzle design study
-  image: /images/sections/projects/puzzledesign.png
+  image: /images/sections/projects/puzzledesign.jpg
   role: Puzzle Designer
   timeline: "2024"
   url: "/posts/puzzledesign/"
