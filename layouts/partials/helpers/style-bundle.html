@@ -1,0 +1,12 @@
+{{ $styles := slice }} 
+{{ range . }} 
+    {{ $res := resources.Get . }} 
+    {{ if $res }} 
+        {{ if eq $res.MediaType.SubType "scss" }} 
+            {{ $res = $res | resources.ToCSS }} 
+        {{ end }} 
+        {{ $styles = $styles | append $res }} 
+    {{ end }} 
+{{ end }} 
+{{ $bundle := $styles | resources.Concat "css/bundle.css" | minify }}
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}">
