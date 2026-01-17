@@ -33,6 +33,22 @@ experiences:
     - Design team lead and coordination with other departments.
 
 - company:
+    name: LogiRail
+    url: "https://logirail.com/"
+    location: Madrid, Spain
+    logo: /images/sections/experiences/logirail.png
+    # Can optionally show a different logo for dark theme
+    # darkLogo: /images/sections/experiences/company2.jpg
+    overview: LogiRail is a technology and services company within the Renfe Group, focused on providing digital solutions and operational support for the railway sector. I work at Renfe Viajeros, supporting public service operation applications.
+  positions:
+  - designation: Senior Software Analyst
+    start: Jul 2025
+    responsibilities:
+    - Analysis and documentation of legacy systems.
+    - Design of modernization and system migration plans.
+    - Maintenance and development of applications.
+
+- company:
     name: Expleo
     url: "https://expleo.com/global/en/"
     location: Madrid, Spain - Berlin, Germany
