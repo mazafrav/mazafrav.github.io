@@ -11,9 +11,9 @@ description: Portfolio of Manu Zafra.
 
 
 # Specify OpenGraph Headers
-openGraph:
-  title: Manu Zafra
-  type: website
-  description: Portfolio of Manu Zafra.
-  image: images/author/retrato2.png
-  url: https://mazafrav.github.io
+#openGraph:
+#  title: Manu Zafra
+#  type: website
+#  description: Portfolio of Manu Zafra.
+#  image: images/author/retrato2.png
+#  url: https://mazafrav.github.io
