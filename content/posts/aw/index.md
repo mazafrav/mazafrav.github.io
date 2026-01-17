@@ -78,31 +78,3 @@ My work in this project includes:
 
 
 {{< vs 20>}}
-
-## Project Highlights
-
-### Camera
-
-
-{{< split 7 5>}}
-
-<br>The game has an isometric view camera with fixed angle, so Camera Design was the first challenge I faced when the first level prototypes where set. 
-
-One of the key dynamics I wanted to enforce was for the players to remain together and cooperate. The first consideration was a dynamic split camera, but having a clear line of sight of your teammate was very important so it was scrapped.
-
-With that in mind, I desgined a dynamic gravity point system along with player confinement inside the screen. This system gives the players significant freedom of movement while also restricting the distance between them and the points of interest with flexibility.
-
-
----
-
-<iframe  width=100% height=90% src="https://www.youtube.com/embed/66lxEimOrKw?si=LjDtnX5f9XXV7mgm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-Video showing early camera prototypes.
-
-{{< /split >}}
-
-### Boss design
-
-{{< alert type="warning" >}}
-Section under construction.
-{{< /alert >}}
